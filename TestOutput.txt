@@ -1,0 +1,107 @@
+//the test cases run on junit, but the output comes from the debugger. Added a print statement after each
+ each test's assertion ; if it doesn't pass teh assertion, it won't reach the print statements. Tests are in
+ p4p2Test.java//
+
+Singleton being initialized
+testRegister Success 
+
+Singleton being initialized
+Amount of Cash: 0.0
+$1000 dollars was added to the register!
+testCount Success 
+
+Singleton being initialized
+Ernie stacks 1 Pokemon games in shelf position 1 (pile height = 0.75")
+Ernie stacks 1 Netrunner games in shelf position 2 (pile height = 1.0")
+Ernie stacks 1 Catan games in shelf position 3 (pile height = 3.0")
+Ernie stacks 1 Magic games in shelf position 4 (pile height = 9.49")
+Ernie stacks 1 Candyland games in shelf position 5 (pile height = 10.51")
+Ernie stacks 1 Connect4 games in shelf position 6 (pile height = 10.51")
+Ernie stacks 1 Mousetrap games in shelf position 7 (pile height = 10.51")
+Ernie stacks 1 Monopoly games in shelf position 8 (pile height = 10.51")
+Ernie stacks 1 Clue games in shelf position 9 (pile height = 10.51")
+Ernie stacks 1 Life games in shelf position 10 (pile height = 10.51")
+Ernie stacks 1 Risk games in shelf position 11 (pile height = 10.51")
+Ernie stacks 1 Gloomhaven games in shelf position 12 (pile height = 10.51")
+testErnieStack Success 
+
+Singleton being initialized
+Burt stacks 1 Monopoly games in shelf position 1 (game width = 15.75")
+Burt stacks 1 Life games in shelf position 2 (game width = 15.75")
+Burt stacks 1 Mousetrap games in shelf position 3 (game width = 15.75")
+Burt stacks 1 Candyland games in shelf position 4 (game width = 15.75")
+Burt stacks 1 Risk games in shelf position 5 (game width = 15.75")
+Burt stacks 1 Gloomhaven games in shelf position 6 (game width = 15.75")
+Burt stacks 1 Clue games in shelf position 7 (game width = 10.51")
+Burt stacks 1 Connect4 games in shelf position 8 (game width = 10.51")
+Burt stacks 1 Magic games in shelf position 9 (game width = 10.0")
+Burt stacks 1 Catan games in shelf position 10 (game width = 9.5")
+Burt stacks 1 Netrunner games in shelf position 11 (game width = 2.75")
+Burt stacks 1 Pokemon games in shelf position 12 (game width = 2.0")
+testBurtStack Success 
+
+Singleton being initialized
+Bart stacks 7 Monopoly games in shelf position 1 (game width = 15.75")
+Bart stacks 7 Clue games in shelf position 2 (game width = 10.51")
+Bart stacks 7 Pokemon games in shelf position 3 (game width = 2.0")
+Bart stacks 1 Mousetrap games in shelf position 4 (game width = 15.75")
+Bart stacks 1 Candyland games in shelf position 5 (game width = 15.75")
+Bart stacks 1 Life games in shelf position 6 (game width = 15.75")
+Bart stacks 1 Risk games in shelf position 7 (game width = 15.75")
+Bart stacks 1 Gloomhaven games in shelf position 8 (game width = 15.75")
+Bart stacks 1 Connect4 games in shelf position 9 (game width = 10.51")
+Bart stacks 1 Magic games in shelf position 10 (game width = 10.0")
+Bart stacks 1 Catan games in shelf position 11 (game width = 9.5")
+Bart stacks 1 Netrunner games in shelf position 12 (game width = 2.75")
+testBartStack Success 
+
+Singleton being initialized
+testOrder Success 
+
+Singleton being initialized
+Bart the cashier has arrived on Day 1
+Just received 3 copies of Monopoly
+Just received 3 copies of Clue
+Just received 3 copies of Pokemon
+Bart stacks 3 Monopoly games in shelf position 1 (game width = 15.75")
+Bart stacks 3 Clue games in shelf position 2 (game width = 10.51")
+Bart stacks 3 Pokemon games in shelf position 3 (game width = 2.0")
+Bart stacks 1 Mousetrap games in shelf position 4 (game width = 15.75")
+Bart stacks 1 Candyland games in shelf position 5 (game width = 15.75")
+Bart stacks 1 Life games in shelf position 6 (game width = 15.75")
+Bart stacks 1 Risk games in shelf position 7 (game width = 15.75")
+Bart stacks 1 Gloomhaven games in shelf position 8 (game width = 15.75")
+Bart stacks 1 Connect4 games in shelf position 9 (game width = 10.51")
+Bart stacks 1 Magic games in shelf position 10 (game width = 10.0")
+Bart stacks 1 Catan games in shelf position 11 (game width = 9.5")
+Bart stacks 1 Netrunner games in shelf position 12 (game width = 2.75")
+testArrive Success 
+
+Singleton being initialized
+testBakerAddPackage Success 
+
+Singleton being initialized
+testBakerSubtract Success 
+
+Singleton being initialized
+Baker the baker has delievered 1 packages of cookies in exchange for 24.0
+Baker the baker is now leaving.
+testBakerDelivery Success 
+
+Singleton being initialized
+testGameCategory Success 
+
+2
+Singleton being initialized
+10.51
+testInsuranceRestock Success 
+
+Singleton being initialized
+testCustomerFactoryKid Success 
+
+Singleton being initialized
+testCustomerFacotryBoard Success 
+
+Singleton being initialized
+testCustomerBonus Success 
+
